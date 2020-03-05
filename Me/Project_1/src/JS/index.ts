@@ -29,13 +29,13 @@ const app = express()
  * Find Reimbursements By User X - Finance Manager
  * Submit Reimbursement X - User
  * Update Reimbursement X - Finance Manager (Added FindReimbursement by ID)
+ * Clean SQL imports X 
  * 
  * 
  * Potential Next Steps:
  * -----------------------------------------------
  * User can change only password
  * Finance manager cannot see passwords/sensitive data
- * Clean SQL imports
  * Admins cannot see each others passwords
  * Password Hash
  */
